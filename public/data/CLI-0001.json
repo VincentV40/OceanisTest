@@ -6,7 +6,7 @@
     "last_updated": "2025-09-18"
   },
   "kpi": {
-    "contacted": 2,
+    "contacted": 3,
     "nda_received": 1,
     "im_sent": 0,
     "loi_received": 0,
@@ -74,6 +74,23 @@
           "visibility": "Client"
         }
       ]
+    },
+    {
+      "row_number": 4,
+      "counterparty_id": "CP-0003",
+      "client_id": "CLI-0001",
+      "name": "Groupe Lavieestbelle",
+      "description": "Acteur stratégique IoT",
+      "type": "Stratégique",
+      "sector": "Technologie",
+      "geography": "France",
+      "website": "www.laviestbelle.fr",
+      "status_stage": "Teaser Envoyé",
+      "owner": "Vincent Vidoudez",
+      "last_activity_date": "2025-09-19",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
     }
   ]
 }
