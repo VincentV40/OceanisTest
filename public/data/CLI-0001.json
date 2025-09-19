@@ -1,18 +1,80 @@
 {
-  "name": "CLI-0001.json",
-  "path": "public/data/CLI-0001.json",
-  "sha": "9b7be6b8a7c5cae7986f8c17e4e320e8a2b6d294",
-  "size": 2229,
-  "url": "https://api.github.com/repos/VincentV40/OceanisTest/contents/public/data/CLI-0001.json?ref=main",
-  "html_url": "https://github.com/VincentV40/OceanisTest/blob/main/public/data/CLI-0001.json",
-  "git_url": "https://api.github.com/repos/VincentV40/OceanisTest/git/blobs/9b7be6b8a7c5cae7986f8c17e4e320e8a2b6d294",
-  "download_url": "https://raw.githubusercontent.com/VincentV40/OceanisTest/main/public/data/CLI-0001.json",
-  "type": "file",
-  "content": "ewogICJTSEEiOiAiMjk0NzMyNzc2YjM0ZDQyNTA2NjI5NGEwNzUzY2I5ODdi\nMTgwZjIxNSIsCiAgImNsaWVudCI6IHsKICAgICJjbGllbnRfaWQiOiAiQ0xJ\nLTAwMDEiLAogICAgImNsaWVudF9uYW1lIjogIlNvY2nDqXTDqSBEw6ltbyIs\nCiAgICAic3RhZ2Vfb3ZlcmFsbCI6ICJQaGFzZSAxIiwKICAgICJsYXN0X3Vw\nZGF0ZWQiOiAiMjAyNS0wOS0xOCIKICB9LAogICJrcGkiOiB7CiAgICAiY29u\ndGFjdGVkIjogMiwKICAgICJuZGFfcmVjZWl2ZWQiOiAxLAogICAgImltX3Nl\nbnQiOiAwLAogICAgImxvaV9yZWNlaXZlZCI6IDAsCiAgICAicGhhc2UyIjog\nMCwKICAgICJkYXRhcm9vbSI6IDAsCiAgICAiZXhjbHVzaXZpdHkiOiAwCiAg\nfSwKICAiY291bnRlcnBhcnRpZXMiOiBbCiAgICB7CiAgICAgICJyb3dfbnVt\nYmVyIjogMiwKICAgICAgImNvdW50ZXJwYXJ0eV9pZCI6ICJDUC0wMDAxIiwK\nICAgICAgImNsaWVudF9pZCI6ICJDTEktMDAwMSIsCiAgICAgICJuYW1lIjog\nIkludmVzdCBDYXBpdGFsIFBhcnRuZXJzIiwKICAgICAgImRlc2NyaXB0aW9u\nIjogIkZvbmRzIG1pZC1jYXAgb3JpZW50w6kgaW5kdXN0cmllIiwKICAgICAg\nInR5cGUiOiAiRmluYW5jaWVyIiwKICAgICAgInNlY3RvciI6ICJJbmR1c3Ry\naWUiLAogICAgICAiZ2VvZ3JhcGh5IjogIkZyYW5jZSIsCiAgICAgICJ3ZWJz\naXRlIjogImh0dHBzOi8vZXhhbXBsZS5jb20iLAogICAgICAic3RhdHVzX3N0\nYWdlIjogIk5EQSBSZcOndSIsCiAgICAgICJvd25lciI6ICJBbGljZSBNYXJ0\naW4iLAogICAgICAibGFzdF9hY3Rpdml0eV9kYXRlIjogIjIwMjUtMDktMTgi\nLAogICAgICAibm90ZXMiOiAiQm9uIGZpdCBzdHJhdMOpZ2lxdWUiLAogICAg\nICAiX19zb3VyY2UiOiAiY291bnRlcnBhcnRpZXMiLAogICAgICAiaW50ZXJh\nY3Rpb25zIjogWwogICAgICAgIHsKICAgICAgICAgICJkYXRlIjogIjIwMjUt\nMDktMTgiLAogICAgICAgICAgImludGVyYWN0aW9uX3R5cGUiOiAiRW52b2kg\nTkRBIiwKICAgICAgICAgICJzdW1tYXJ5IjogIk5EQSBlbnZvecOpIHBvdXIg\nc2lnbmF0dXJlIiwKICAgICAgICAgICJuZXh0X2FjdGlvbiI6ICJSZWxhbmNl\nciBzaSBwYXMgc2lnbsOpIiwKICAgICAgICAgICJuZXh0X2FjdGlvbl9kdWUi\nOiAiMjAyNS0wOS0xOCIsCiAgICAgICAgICAidmlzaWJpbGl0eSI6ICJDbGll\nbnQiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiZGF0ZSI6ICIy\nMDI1LTA5LTE4IiwKICAgICAgICAgICJpbnRlcmFjdGlvbl90eXBlIjogIlLD\nqWNlcHRpb24gTkRBIiwKICAgICAgICAgICJzdW1tYXJ5IjogIk5EQSBzaWdu\nw6kgcmXDp3UgLSBPSyIsCiAgICAgICAgICAibmV4dF9hY3Rpb24iOiAiRW52\nb3llciBNSSIsCiAgICAgICAgICAibmV4dF9hY3Rpb25fZHVlIjogIjIwMjUt\nMDktMTgiLAogICAgICAgICAgInZpc2liaWxpdHkiOiAiQ2xpZW50IgogICAg\nICAgIH0KICAgICAgXQogICAgfSwKICAgIHsKICAgICAgInJvd19udW1iZXIi\nOiAzLAogICAgICAiY291bnRlcnBhcnR5X2lkIjogIkNQLTAwMDIiLAogICAg\nICAiY2xpZW50X2lkIjogIkNMSS0wMDAxIiwKICAgICAgIm5hbWUiOiAiR3Jv\ndXBlIFRlY2hub1BsdXMiLAogICAgICAiZGVzY3JpcHRpb24iOiAiQWN0ZXVy\nIHN0cmF0w6lnaXF1ZSBJb1QiLAogICAgICAidHlwZSI6ICJTdHJhdMOpZ2lx\ndWUiLAogICAgICAic2VjdG9yIjogIlRlY2hub2xvZ2llIiwKICAgICAgImdl\nb2dyYXBoeSI6ICJEQUNIIiwKICAgICAgIndlYnNpdGUiOiAiIiwKICAgICAg\nInN0YXR1c19zdGFnZSI6ICJUZWFzZXIgRW52b3nDqSIsCiAgICAgICJvd25l\nciI6ICJBbGljZSBNYXJ0aW4iLAogICAgICAibGFzdF9hY3Rpdml0eV9kYXRl\nIjogIjIwMjUtMDktMTgiLAogICAgICAibm90ZXMiOiAiIiwKICAgICAgIl9f\nc291cmNlIjogImNvdW50ZXJwYXJ0aWVzIiwKICAgICAgImludGVyYWN0aW9u\ncyI6IFsKICAgICAgICB7CiAgICAgICAgICAiZGF0ZSI6ICIyMDI1LTA5LTE4\nIiwKICAgICAgICAgICJpbnRlcmFjdGlvbl90eXBlIjogIkVudm9pIFRlYXNl\nciIsCiAgICAgICAgICAic3VtbWFyeSI6ICJUZWFzZXIgZW52b3nDqSBhdSBE\nRyIsCiAgICAgICAgICAibmV4dF9hY3Rpb24iOiAiUHJvcG9zZXIgY2FsbCBk\nJ2ludHJvIiwKICAgICAgICAgICJuZXh0X2FjdGlvbl9kdWUiOiAiMjAyNS0w\nOS0xOCIsCiAgICAgICAgICAidmlzaWJpbGl0eSI6ICJDbGllbnQiCiAgICAg\nICAgfQogICAgICBdCiAgICB9CiAgXQp9\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/VincentV40/OceanisTest/contents/public/data/CLI-0001.json?ref=main",
-    "git": "https://api.github.com/repos/VincentV40/OceanisTest/git/blobs/9b7be6b8a7c5cae7986f8c17e4e320e8a2b6d294",
-    "html": "https://github.com/VincentV40/OceanisTest/blob/main/public/data/CLI-0001.json"
-  }
+  "sha": "dc212ebbe40257ee317a2ef8562d9abcf205d070",
+  "client": {
+    "client_id": "CLI-0001",
+    "client_name": "Société Démo",
+    "stage_overall": "Phase 1",
+    "last_updated": "2025-09-18"
+  },
+  "kpi": {
+    "contacted": 2,
+    "nda_received": 1,
+    "im_sent": 0,
+    "loi_received": 0,
+    "phase2": 0,
+    "dataroom": 0,
+    "exclusivity": 0
+  },
+  "counterparties": [
+    {
+      "row_number": 2,
+      "counterparty_id": "CP-0001",
+      "client_id": "CLI-0001",
+      "name": "Invest Capital Partners",
+      "description": "Fonds mid-cap orienté industrie",
+      "type": "Financier",
+      "sector": "Industrie",
+      "geography": "France",
+      "website": "https://example.com",
+      "status_stage": "NDA Reçu",
+      "owner": "Alice Martin",
+      "last_activity_date": "2025-09-18",
+      "notes": "Bon fit stratégique",
+      "__source": "counterparties",
+      "interactions": [
+        {
+          "date": "2025-09-18",
+          "interaction_type": "Envoi NDA",
+          "summary": "NDA envoyé pour signature",
+          "next_action": "Relancer si pas signé",
+          "next_action_due": "2025-09-18",
+          "visibility": "Client"
+        },
+        {
+          "date": "2025-09-18",
+          "interaction_type": "Réception NDA",
+          "summary": "NDA signé reçu - OK",
+          "next_action": "Envoyer MI",
+          "next_action_due": "2025-09-18",
+          "visibility": "Client"
+        }
+      ]
+    },
+    {
+      "row_number": 3,
+      "counterparty_id": "CP-0002",
+      "client_id": "CLI-0001",
+      "name": "Groupe TechnoPlus",
+      "description": "Acteur stratégique IoT",
+      "type": "Stratégique",
+      "sector": "Technologie",
+      "geography": "DACH",
+      "website": "",
+      "status_stage": "Teaser Envoyé",
+      "owner": "Alice Martin",
+      "last_activity_date": "2025-09-18",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": [
+        {
+          "date": "2025-09-18",
+          "interaction_type": "Envoi Teaser",
+          "summary": "Teaser envoyé au DG",
+          "next_action": "Proposer call d'intro",
+          "next_action_due": "2025-09-18",
+          "visibility": "Client"
+        }
+      ]
+    }
+  ]
 }
