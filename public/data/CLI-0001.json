@@ -2,8 +2,7 @@
   "client": {
     "client_id": "CLI-0001",
     "client_name": "Mitaland",
-    "stage_overall": "Phase 1",
-    "last_updated": "2025-09-18"
+    "stage_overall": "Phase 1"
   },
   "kpi": {
     "contacted": 3,
