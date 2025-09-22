@@ -1,0 +1,18 @@
+{
+  "client": {
+    "client_id": "CLI-0003",
+    "client_name": "Société Démo 3",
+    "stage_overall": "Phase 1",
+    "last_updated": "2025-09-20"
+  },
+  "kpi": {
+    "contacted": 0,
+    "nda_received": 0,
+    "im_sent": 0,
+    "loi_received": 0,
+    "phase2": 0,
+    "dataroom": 0,
+    "exclusivity": 0
+  },
+  "counterparties": []
+}
