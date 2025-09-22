@@ -6,7 +6,7 @@
     "last_updated": "2025-09-18"
   },
   "kpi": {
-    "contacted": 4,
+    "contacted": 5,
     "nda_received": 1,
     "im_sent": 0,
     "loi_received": 0,
@@ -114,6 +114,23 @@
       "owner": "Vincent Vidoudez",
       "last_activity_date": "2025-09-20",
       "notes": "Superbe opportunité de synergie",
+      "__source": "counterparties",
+      "interactions": []
+    },
+    {
+      "row_number": 7,
+      "counterparty_id": "CP-308085",
+      "client_id": "CLI-0001",
+      "name": "Test Company",
+      "description": "",
+      "type": "Financier",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "Teaser Envoyé",
+      "owner": "Alice Martin",
+      "last_activity_date": "2025-09-22",
+      "notes": "",
       "__source": "counterparties",
       "interactions": []
     }
