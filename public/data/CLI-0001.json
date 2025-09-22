@@ -6,7 +6,7 @@
     "last_updated": "2025-09-18"
   },
   "kpi": {
-    "contacted": 3,
+    "contacted": 4,
     "nda_received": 1,
     "im_sent": 0,
     "loi_received": 0,
@@ -96,6 +96,23 @@
       "status_stage": "Teaser Envoyé",
       "owner": "Vincent Vidoudez",
       "last_activity_date": "2025-09-19",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
+    },
+    {
+      "row_number": 5,
+      "counterparty_id": "CP-0004",
+      "client_id": "CLI-0001",
+      "name": "Groupe Beautest",
+      "description": "Fonds mid-cap orienté industrie",
+      "type": "Stratégique",
+      "sector": "Technologie",
+      "geography": "France",
+      "website": "www.test.com",
+      "status_stage": "Teaser Envoyé",
+      "owner": "Vincent Vidoudez",
+      "last_activity_date": "2025-09-20",
       "notes": "",
       "__source": "counterparties",
       "interactions": []
