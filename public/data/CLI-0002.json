@@ -6,7 +6,7 @@
     "last_updated": "2025-09-20"
   },
   "kpi": {
-    "contacted": 0,
+    "contacted": 1,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -14,5 +14,32 @@
     "dataroom": 0,
     "exclusivity": 0
   },
-  "counterparties": []
+  "counterparties": [
+    {
+      "row_number": 6,
+      "counterparty_id": "CP-0005",
+      "client_id": "CLI-0002",
+      "name": "Groupe Beautest",
+      "description": "Fonds mid-cap orienté industrie",
+      "type": "Stratégique",
+      "sector": "Technologie",
+      "geography": "France",
+      "website": "www.test2.com",
+      "status_stage": "Teaser Envoyé",
+      "owner": "Vincent Vidoudez",
+      "last_activity_date": "2025-09-21",
+      "notes": "Superbe opportunité de business",
+      "__source": "counterparties",
+      "interactions": [
+        {
+          "date": "2025-09-22",
+          "interaction_type": "Envoi NDA",
+          "summary": "Teaser envoyé au DG",
+          "next_action": "Relancer dans une semaine",
+          "next_action_due": "2025-09-21",
+          "visibility": "Client"
+        }
+      ]
+    }
+  ]
 }
