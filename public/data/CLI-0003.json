@@ -38,6 +38,14 @@
           "next_action": "Relancer dans une semaine",
           "next_action_due": "2025-09-30",
           "visibility": "Client"
+        },
+        {
+          "date": "2025-09-23",
+          "interaction_type": "Envoi NDA",
+          "summary": "Envoi au DG",
+          "next_action": "Relance dans une semaine",
+          "next_action_due": "2025-09-30",
+          "visibility": "Client"
         }
       ]
     }
