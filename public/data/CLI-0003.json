@@ -6,7 +6,7 @@
     "last_updated": "2025-09-20"
   },
   "kpi": {
-    "contacted": 0,
+    "contacted": 1,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -14,5 +14,23 @@
     "dataroom": 0,
     "exclusivity": 0
   },
-  "counterparties": []
+  "counterparties": [
+    {
+      "row_number": 9,
+      "counterparty_id": "CP-583137",
+      "client_id": "CLI-0003",
+      "name": "Test Private Equity",
+      "description": "",
+      "type": "Financier",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "Nouveau Prospect",
+      "owner": "Vincent Vidoudez",
+      "last_activity_date": "2025-09-23",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
+    }
+  ]
 }
