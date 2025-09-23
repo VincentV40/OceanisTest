@@ -62,6 +62,14 @@
           "next_action": "AAAAA",
           "next_action_due": "2025-09-30",
           "visibility": "Client"
+        },
+        {
+          "date": "2025-09-23",
+          "interaction_type": "Phase 2",
+          "summary": "Test de la Phase 2 ",
+          "next_action": "Test ",
+          "next_action_due": "2026-01-02",
+          "visibility": "Client"
         }
       ]
     }
