@@ -6,7 +6,7 @@
     "last_updated": "2025-09-20"
   },
   "kpi": {
-    "contacted": 2,
+    "contacted": 0,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -14,81 +14,5 @@
     "dataroom": 0,
     "exclusivity": 0
   },
-  "counterparties": [
-    {
-      "row_number": 9,
-      "counterparty_id": "CP-583137",
-      "client_id": "CLI-0003",
-      "name": "Test Private Equity",
-      "description": "",
-      "type": "Financier",
-      "sector": "",
-      "geography": "",
-      "website": "",
-      "status_stage": "Nouveau Prospect",
-      "owner": "Vincent Vidoudez",
-      "last_activity_date": "2025-09-23",
-      "notes": "",
-      "__source": "counterparties",
-      "interactions": [
-        {
-          "date": "2025-09-23",
-          "interaction_type": "Envoi NDA",
-          "summary": "Envoi au DGGG",
-          "next_action": "Relancer dans une semaine",
-          "next_action_due": "2025-09-30",
-          "visibility": "Client"
-        },
-        {
-          "date": "2025-09-23",
-          "interaction_type": "Envoi NDA",
-          "summary": "Envoi au DG",
-          "next_action": "Relance dans une semaine",
-          "next_action_due": "2025-09-30",
-          "visibility": "Client"
-        },
-        {
-          "date": "2025-09-23",
-          "interaction_type": "Réception NDA",
-          "summary": "Récéption du DG signé ",
-          "next_action": "Envoyer Mémo ",
-          "next_action_due": "2025-09-23",
-          "visibility": "Client"
-        },
-        {
-          "date": "2025-09-23",
-          "interaction_type": "LOI Reçue",
-          "summary": "AAAAA",
-          "next_action": "AAAAA",
-          "next_action_due": "2025-09-30",
-          "visibility": "Client"
-        },
-        {
-          "date": "2025-09-23",
-          "interaction_type": "Phase 2",
-          "summary": "Test de la Phase 2 ",
-          "next_action": "Test ",
-          "next_action_due": "2026-01-02",
-          "visibility": "Client"
-        }
-      ]
-    },
-    {
-      "row_number": 10,
-      "counterparty_id": "CP-840668",
-      "client_id": "CLI-0003",
-      "name": "Vitesse ",
-      "description": "",
-      "type": "Stratégique",
-      "sector": "",
-      "geography": "",
-      "website": "",
-      "status_stage": "Nouveau Prospect",
-      "owner": "Vincent Vidodu",
-      "last_activity_date": "2025-09-23",
-      "notes": "",
-      "__source": "counterparties",
-      "interactions": []
-    }
-  ]
+  "counterparties": []
 }
