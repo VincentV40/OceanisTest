@@ -6,8 +6,8 @@
     "last_updated": "2025-09-18"
   },
   "kpi": {
-    "contacted": 5,
-    "nda_received": 1,
+    "contacted": 6,
+    "nda_received": 2,
     "im_sent": 0,
     "loi_received": 0,
     "phase2": 0,
@@ -131,6 +131,23 @@
       "owner": "Alice Martin",
       "last_activity_date": "2025-09-22",
       "notes": "",
+      "__source": "counterparties",
+      "interactions": []
+    },
+    {
+      "row_number": 8,
+      "counterparty_id": "CP-123456",
+      "client_id": "CLI-0001",
+      "name": "Nouveau Nom Société",
+      "description": "Description mise à jour",
+      "type": "Stratégique",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "NDA Reçu",
+      "owner": "Vincent Vidoudez",
+      "last_activity_date": "2025-09-23",
+      "notes": "Mise à jour complète depuis dashboard",
       "__source": "counterparties",
       "interactions": []
     }
