@@ -46,6 +46,14 @@
           "next_action": "Relance dans une semaine",
           "next_action_due": "2025-09-30",
           "visibility": "Client"
+        },
+        {
+          "date": "2025-09-23",
+          "interaction_type": "Réception NDA",
+          "summary": "Récéption du DG signé ",
+          "next_action": "Envoyer Mémo ",
+          "next_action_due": "2025-09-23",
+          "visibility": "Client"
         }
       ]
     }
