@@ -157,6 +157,14 @@
           "next_action": "A voir ",
           "next_action_due": "2026-01-01",
           "visibility": "Client"
+        },
+        {
+          "date": "2025-09-23",
+          "interaction_type": "Envoi NDA",
+          "summary": "Test 2 ",
+          "next_action": "Test 2",
+          "next_action_due": "2025-09-25",
+          "visibility": "Client"
         }
       ]
     }
