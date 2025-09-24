@@ -6,7 +6,7 @@
     "last_updated": "2025-09-18"
   },
   "kpi": {
-    "contacted": 3,
+    "contacted": 4,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -71,6 +71,23 @@
       "status_stage": "Teaser Envoyé",
       "owner": "Alice Martin",
       "last_activity_date": "2025-09-22",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
+    },
+    {
+      "row_number": 6,
+      "counterparty_id": "CP-587832",
+      "client_id": "CLI-0001",
+      "name": "LVMH",
+      "description": "",
+      "type": "Stratégique",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "Nouveau Prospect",
+      "owner": "Arnaud",
+      "last_activity_date": "2025-09-24",
       "notes": "",
       "__source": "counterparties",
       "interactions": []
