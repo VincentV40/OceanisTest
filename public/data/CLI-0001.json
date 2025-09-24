@@ -16,7 +16,7 @@
   },
   "counterparties": [
     {
-      "row_number": 4,
+      "row_number": 2,
       "counterparty_id": "CP-0003",
       "client_id": "CLI-0001",
       "name": "Groupe Lavieestbelle",
@@ -33,7 +33,7 @@
       "interactions": []
     },
     {
-      "row_number": 5,
+      "row_number": 3,
       "counterparty_id": "CP-0004",
       "client_id": "CLI-0001",
       "name": "Groupe Beautest",
@@ -50,7 +50,7 @@
       "interactions": []
     },
     {
-      "row_number": 7,
+      "row_number": 5,
       "counterparty_id": "CP-308085",
       "client_id": "CLI-0001",
       "name": "Test Company",
