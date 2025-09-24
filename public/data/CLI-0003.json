@@ -6,7 +6,7 @@
     "last_updated": "2025-09-20"
   },
   "kpi": {
-    "contacted": 0,
+    "contacted": 1,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -14,5 +14,23 @@
     "dataroom": 0,
     "exclusivity": 0
   },
-  "counterparties": []
+  "counterparties": [
+    {
+      "row_number": 7,
+      "counterparty_id": "CP-835564",
+      "client_id": "CLI-0003",
+      "name": "Premier acquéreur pour cette belle entreprise",
+      "description": "",
+      "type": "Financier",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "Nouveau Prospect",
+      "owner": "Salamalécoum",
+      "last_activity_date": "2025-09-24",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
+    }
+  ]
 }
