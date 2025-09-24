@@ -6,7 +6,7 @@
     "last_updated": "2025-09-20"
   },
   "kpi": {
-    "contacted": 1,
+    "contacted": 2,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -48,6 +48,23 @@
           "visibility": "Client"
         }
       ]
+    },
+    {
+      "row_number": 8,
+      "counterparty_id": "CP-010719",
+      "client_id": "CLI-0002",
+      "name": "Test 24/09",
+      "description": "",
+      "type": "Financier",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "Nouveau Prospect",
+      "owner": "Vincent",
+      "last_activity_date": "2025-09-24",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
     }
   ]
 }
