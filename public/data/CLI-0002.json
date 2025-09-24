@@ -16,7 +16,7 @@
   },
   "counterparties": [
     {
-      "row_number": 6,
+      "row_number": 4,
       "counterparty_id": "CP-0005",
       "client_id": "CLI-0002",
       "name": "Groupe Beautest",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "row_number": 8,
+      "row_number": 6,
       "counterparty_id": "CP-010719",
       "client_id": "CLI-0002",
       "name": "Test 24/09",
@@ -67,7 +67,7 @@
       "interactions": []
     },
     {
-      "row_number": 9,
+      "row_number": 7,
       "counterparty_id": "CP-177819",
       "client_id": "CLI-0002",
       "name": "TEST 2 24/09",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "row_number": 10,
+      "row_number": 8,
       "counterparty_id": "CP-457822",
       "client_id": "CLI-0002",
       "name": "Vincent VIDOUDEZ",
