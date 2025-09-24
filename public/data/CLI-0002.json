@@ -32,6 +32,14 @@
       "__source": "counterparties",
       "interactions": [
         {
+          "date": "2025-09-24",
+          "interaction_type": "Réception NDA",
+          "summary": "Test du 24/09",
+          "next_action": "Test du 24/09",
+          "next_action_due": "2025-09-25",
+          "visibility": "Client"
+        },
+        {
           "date": "2025-09-22",
           "interaction_type": "Envoi NDA",
           "summary": "Teaser envoyé au DG",
