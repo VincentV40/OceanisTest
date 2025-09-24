@@ -6,7 +6,7 @@
     "last_updated": "2025-09-20"
   },
   "kpi": {
-    "contacted": 2,
+    "contacted": 3,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -54,6 +54,23 @@
       "counterparty_id": "CP-010719",
       "client_id": "CLI-0002",
       "name": "Test 24/09",
+      "description": "",
+      "type": "Financier",
+      "sector": "",
+      "geography": "",
+      "website": "",
+      "status_stage": "Nouveau Prospect",
+      "owner": "Vincent",
+      "last_activity_date": "2025-09-24",
+      "notes": "",
+      "__source": "counterparties",
+      "interactions": []
+    },
+    {
+      "row_number": 9,
+      "counterparty_id": "CP-177819",
+      "client_id": "CLI-0002",
+      "name": "TEST 2 24/09",
       "description": "",
       "type": "Financier",
       "sector": "",
