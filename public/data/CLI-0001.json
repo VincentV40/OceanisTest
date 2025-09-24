@@ -6,7 +6,7 @@
     "last_updated": "2025-09-18"
   },
   "kpi": {
-    "contacted": 5,
+    "contacted": 3,
     "nda_received": 0,
     "im_sent": 0,
     "loi_received": 0,
@@ -15,74 +15,6 @@
     "exclusivity": 0
   },
   "counterparties": [
-    {
-      "row_number": 2,
-      "counterparty_id": "CP-0001",
-      "client_id": "CLI-0001",
-      "name": "",
-      "description": "",
-      "type": "",
-      "sector": "",
-      "geography": "",
-      "website": "",
-      "status_stage": "",
-      "owner": "VincentTEST",
-      "last_activity_date": "2025-09-24",
-      "notes": "",
-      "__source": "counterparties",
-      "interactions": [
-        {
-          "date": "2025-09-22",
-          "interaction_type": "Envoi MI",
-          "summary": "Envoi Mémorandum",
-          "next_action": "Relancer dans une semaine",
-          "next_action_due": "2025-09-18",
-          "visibility": "Client"
-        },
-        {
-          "date": "2025-09-18",
-          "interaction_type": "Envoi NDA",
-          "summary": "NDA envoyé pour signature",
-          "next_action": "Relancer si pas signé",
-          "next_action_due": "2025-09-18",
-          "visibility": "Client"
-        },
-        {
-          "date": "2025-09-18",
-          "interaction_type": "Réception NDA",
-          "summary": "NDA signé reçu - OK",
-          "next_action": "Envoyer MI",
-          "next_action_due": "2025-09-18",
-          "visibility": "Client"
-        }
-      ]
-    },
-    {
-      "row_number": 3,
-      "counterparty_id": "CP-0002",
-      "client_id": "CLI-0001",
-      "name": "",
-      "description": "",
-      "type": "Financier",
-      "sector": "",
-      "geography": "",
-      "website": "",
-      "status_stage": "NDA Envoyé",
-      "owner": "Vincent",
-      "last_activity_date": "2025-09-24",
-      "notes": "",
-      "__source": "counterparties",
-      "interactions": [
-        {
-          "date": "2025-09-18",
-          "interaction_type": "Envoi NDA",
-          "summary": "Teaser envoyé au DG",
-          "next_action": "Proposer call d'intro",
-          "next_action_due": "2025-09-18",
-          "visibility": "Client"
-        }
-      ]
-    },
     {
       "row_number": 4,
       "counterparty_id": "CP-0003",
